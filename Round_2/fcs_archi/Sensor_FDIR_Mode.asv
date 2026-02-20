@@ -1,0 +1,14 @@
+classdef Sensor_FDIR_Mode < Simulink.IntEnumType
+    enumeration
+        Healthy (0)
+        GPS_Compensated_Altitude (1)
+        GPS_Compensated_Airspeed (2)
+        GPS_Compensated_Heading (3)
+        GPS_Compensated_Altitude_Airspeed (4)
+        GPS_Compensated_Airspeed_Heading (5)
+        GPS_Compensated_Altitude_Heading (6)
+        GPS_Compensated (7)
+        Stabilize (8)
+        Critical (9)
+    end 
+end

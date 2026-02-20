@@ -1,0 +1,3 @@
+Open points:
+
+- How to overwrite the kinematic state once the measurement update is completed? (Trigger)
