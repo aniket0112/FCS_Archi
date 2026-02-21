@@ -6,5 +6,6 @@ classdef Autopilot_Mode < Simulink.IntEnumType
         Arcade (3)
         Manual (4)
         Degraded (5)
+        Disable (6)
     end 
 end

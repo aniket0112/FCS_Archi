@@ -5,5 +5,7 @@ classdef Pilot_Action < Simulink.IntEnumType
         Disengage (2)
         Engage (3)
         Return (4)
+        Arm (5)
+        Disarm (5)
     end 
 end
