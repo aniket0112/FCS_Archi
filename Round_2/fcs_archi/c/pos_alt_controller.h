@@ -1,0 +1,9 @@
+#ifndef POS_ALT_CONTROLLER
+#define POS_ALT_CONTROLLER
+
+extern void compute_targets
+(const double gain, const double target_hdg, const double target_spd, const double target_alt,
+ const double estimated_hdg, const double estimated_spd, const double estimated_alt,
+ double* roll_target, double* pitch_target, double* yaw_target, double* throttle_target);
+
+#endif

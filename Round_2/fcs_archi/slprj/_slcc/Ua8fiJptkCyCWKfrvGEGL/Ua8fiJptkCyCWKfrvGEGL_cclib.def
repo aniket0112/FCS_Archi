@@ -1,0 +1,6 @@
+LIBRARY Ua8fiJptkCyCWKfrvGEGL_cclib.dll
+EXPORTS
+    get_dll_checksum_Ua8fiJptkCyCWKfrvGEGL
+    compute_Ua8fiJptkCyCWKfrvGEGL
+    compute_targets_Ua8fiJptkCyCWKfrvGEGL
+    get_checksum_source_info
