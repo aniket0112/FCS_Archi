@@ -1,3 +1,6 @@
 Open points:
 
 - How to overwrite the kinematic state once the measurement update is completed? (Trigger)
+- Gain scheduling
+- Number of failures from FDIR
+- During computation to entry computation
