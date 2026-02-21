@@ -1,0 +1,6 @@
+- sensor_redudancy model is a draft of a functional triple sensor redudancy model.
+- fcs_archi is architecture details for UAV FCS and the RTOS design
+  - fcs_archi.slx is the Simulink model of the complete FCS architecture
+  - report/ contains reports about the case study
+  - enum/ contains user-defined enums for the Simulink model
+  - c/ contains the black box C functions for control laws
